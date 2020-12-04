@@ -1,0 +1,10 @@
+[Ll]ibrary/
+[Tt]emp/
+[Oo]bj/
+[Bb]in/
+.vs/
+
+*.csproj
+*.sln
+*.sln.meta
+*.suo
