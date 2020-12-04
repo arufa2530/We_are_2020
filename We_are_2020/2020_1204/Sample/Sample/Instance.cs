@@ -4,10 +4,10 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace Instance
+namespace Sample
 {
     class Instance
-    {
+    {   
         public static void Main()
         {
             Mori kensuke;
