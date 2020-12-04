@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace Instance
 {
-    class Test
+    class Instance
     {
         public static void Main()
         {
